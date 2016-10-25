@@ -1,2 +1,3 @@
 # hello-world
-Getting to know you / Getting to know everything about you
+
+This is Andrew. I'm learning to use GitHub. Wheee !
